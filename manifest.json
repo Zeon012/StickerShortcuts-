@@ -1,0 +1,8 @@
+{
+    "name": "Sticker Shortcuts",
+    "description": "Send stickers by typing: /sticker <name> or :sticker name: inline",
+    "authors": [{ "name": "Zeon", "id": "0" }],
+    "main": "index.js",
+    "hash": "34a337e7a95dd326",
+    "vendetta": { "icon": "ic_sticker" }
+}
